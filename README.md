@@ -81,10 +81,3 @@ Feel free to open issues or submit pull requests for improvements.
 ## 📄 License
 
 This project is licensed under the MIT License.
-
----
-
-## 🌐 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/michealudekwu)
-- [GitHub](https://github.com/Michealudekwu/Flight-Pricings)
